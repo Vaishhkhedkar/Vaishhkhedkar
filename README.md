@@ -4,9 +4,10 @@
   
 - 🌱 I’m currently learning 𝐉𝐀𝐕𝐀 𝐒𝐂𝐑𝐈𝐏𝐓
 
-- 📫 How to reach me
+- 👩‍💻 All of my projects are available at https://github.com/Vaishhkhedkar 
+
+- 📫 How to reach me khedvaishnavi44@gmail.com
   
-- 😄 Pronouns: she / her
 
 
 Vaishhkhedkar/Vaishhkhedkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
