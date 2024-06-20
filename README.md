@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://github.com/Vaishhkhedkar/Vaishhkhedkar/tree/main
-- 😄 Pronouns: ...
+- 😄 Pronouns: she / her
 - ⚡ Fun fact: ...
 
 <!---
