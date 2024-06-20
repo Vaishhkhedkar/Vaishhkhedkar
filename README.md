@@ -1,15 +1,15 @@
-# <i>HEY EVERYONE <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I AM RUTUJA SANAP </i>👩🏻‍💻
+# <i>HEY EVERYONE <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I AM VAISHNAVI KHEDKAR </i>👩🏻‍💻
 <h3><i>I am passionate about doing Web Development and also another programming language.</i></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja20sanap&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja20sanap" /> </p>
 
 
 - 🔭 I’m currently working on *icp-8.0-html-css-group-project.*
 
-- 🌱 I’m currently learning  *MERN Stack.*
+- 🌱 I’m currently learning  *JAVA SCRIPT.*
 
-- 👩🏻‍💻 All of my projects are available at [*https://github.com/Rutuja20Sanap*](https://github.com/Rutuja20Sanap)
+- 👩🏻‍💻 All of my projects are available at [*https://github.com/Vaishhkhedkar*](https://github.com/Vaishhkhedkar)
 
-- 📫 How to reach me *dnyaneshwarsanap293@gmail.com*
+- 📫 How to reach me *khedvaishnavi44@gmai.com*
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
