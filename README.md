@@ -1,14 +1,26 @@
-𝙃𝙀𝙇𝙇𝙊 𝙀𝙑𝙀𝙍𝙔𝙊𝙉𝙀 👋 , 𝙄 𝘼𝙈 𝙑𝘼𝙄𝙎𝙃𝙉𝘼𝙑𝙄 𝙆𝙃𝙀𝘿𝙆𝘼𝙍 
+# <i>HEY EVERYONE <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I AM RUTUJA SANAP </i>👩🏻‍💻
+<h3><i>I am passionate about doing Web Development and also another programming language.</i></h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja20sanap&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja20sanap" /> </p>
 
-𝗜 𝗮𝗺 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗱𝗼𝗶𝗻𝗴 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗮𝗻𝗱 𝗮𝗹𝘀𝗼 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲 
 
-- 🌱 I'm currently working on 𝐢𝐜𝐩-8.0-𝐡𝐭𝐦𝐥-𝐜𝐬𝐬-𝐠𝐫𝐨𝐮𝐩-𝐩𝐫𝐨𝐣𝐞𝐜𝐭.
-  
-- 🌱 I’m currently learning 𝐉𝐀𝐕𝐀 𝐒𝐂𝐑𝐈𝐏𝐓
+- 🔭 I’m currently working on *icp-8.0-html-css-group-project.*
 
-- 👩‍💻 All of my projects are available at https://github.com/Vaishhkhedkar 
+- 🌱 I’m currently learning  *MERN Stack.*
 
-- 📫 How to reach me khedvaishnavi44@gmail.com
+- 👩🏻‍💻 All of my projects are available at [*https://github.com/Rutuja20Sanap*](https://github.com/Rutuja20Sanap)
 
-- connect with me:
-  
+- 📫 How to reach me *dnyaneshwarsanap293@gmail.com*
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/rutuja-sanap-07096b284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rutuja-sanap-07096b284/" height="30" width="40" /></a
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutuja20sanap&show_icons=true&locale=en&layout=compact" alt="rutuja20sanap" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutuja20sanap&show_icons=true&locale=en" alt="rutuja20sanap" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutuja20sanap&" alt="rutuja20sanap" /></p>
