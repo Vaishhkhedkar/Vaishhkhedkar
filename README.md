@@ -9,4 +9,6 @@
 - 👩‍💻 All of my projects are available at https://github.com/Vaishhkhedkar 
 
 - 📫 How to reach me khedvaishnavi44@gmail.com
+
+- connect with me:
   
