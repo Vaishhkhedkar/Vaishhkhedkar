@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Vaishhkhedkar
-- 👀 I’m interested in programming
+HELLO  EVERYONE👋 , I AM VAISHNAVI KHEDKAR
+
+🌱 I’m interested in programming
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://github.com/Vaishhkhedkar/Vaishhkhedkar/tree/main
