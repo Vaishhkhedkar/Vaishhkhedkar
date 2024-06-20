@@ -1,4 +1,4 @@
-# <i>HEY EVERYONE <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I AM VAISHNAVI KHEDKAR </i>👩🏻‍💻
+# <i>HELLO EVERYONE <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I AM VAISHNAVI KHEDKAR </i>👩🏻‍💻
 <h3><i>I am passionate about doing Web Development and also another programming language.</i></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja20sanap&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja20sanap" /> </p>
 
