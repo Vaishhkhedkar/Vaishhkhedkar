@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *icp-8.0-html-css-group-project.*
 
-- 🌱 I’m currently learning # <i> JAVA SCRIPT <i>
+- 🌱 I’m currently learning *JAVA SCIPT*
 
 - 👩🏻‍💻 All of my projects are available at [*https://github.com/Vaishhkhedkar*](https://github.com/Vaishhkhedkar)
 
